@@ -1,0 +1,176 @@
+%!PS
+% This: Job Map File: /Users/acaballero/Desktop/m2m8uf601_Caballero/4ea53bb4a6c00f3fe233a20e22fdc354.job
+%%Creator: Preps 6.2.1 build number 158 Macintosh
+%%FileEncoding: 134217984
+%SSiPrepsVer: 1
+%SSiJobDir: '/Users/acaballero/Desktop/m2m8uf601_Caballero/4ea53bb4a6c00f3fe233a20e22fdc354.job'
+%SSiJobFileRef: 6 '132:Users:acaballero:Downloads:triptic 6 pàgs.pdf' 6 1283821378 0 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 1.00000 0 -1 0 0 0 0 
+%SSiJobFileRef: -1 'Blank Page' 0 -1 0 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 1.00000 0 -1 0 0 0 0 
+%SSiJobPage: -1 0 0.00000 0.00000 1.00000 1.00000 3 0.00000 0.00000 '' 0 -1 1 
+%SSiJobPageExtendInfo: '' '' '' '' '' 1 
+%SSiJobPage: -1 0 0.00000 0.00000 1.00000 1.00000 3 0.00000 0.00000 '' 0 -1 1 
+%SSiJobPageExtendInfo: '' '' '' '' '' 2 
+%SSiLaySpecs: 0 0 0.00000 0.00000 '' 0.00000 0.00000 0.00000 0.00000 1.00000 1.00000 8.50400 0 '' '' '' 4 1 1 '' 0 0.00000 0.00000 0 
+%SSiSigUsed: '4ea53bb4a6c00f3fe233a20e22fdc354.tpl' 'Sin título Pliego 1' 0 0 '' '' '' 10.00000 '' '' '' '' '' 0 0 0 0 'PREPS_A$589D9F12-38EA-11E8-8656-8FFBE63D9B6C' 
+%SSiJobDelivery: 1 1 1 1 0 
+%SSiJobAssemblyDelivery: 4 9 
+%SSiJobColor: 'Composite' 150.00000 45.00000 -1 0.00000 0.00000 0.00000 0.00000 0 0 0.00000 0.00000 0.00000 0.00000 150.00000 45.00000 
+%SSiJobColor: 'Process Cyan' 150.00000 105.00000 -1 0.00000 0.00000 0.00000 0.00000 1 2 1.00000 0.00000 0.00000 0.00000 150.00000 105.00000 
+%SSiJobColor: 'Process Magenta' 150.00000 75.00000 -1 0.00000 0.00000 0.00000 0.00000 2 2 0.00000 1.00000 0.00000 0.00000 150.00000 75.00000 
+%SSiJobColor: 'Process Yellow' 150.00000 90.00000 -1 0.00000 0.00000 0.00000 0.00000 3 2 0.00000 0.00000 1.00000 0.00000 150.00000 90.00000 
+%SSiJobColor: 'Process Black' 150.00000 45.00000 -1 0.00000 0.00000 0.00000 0.00000 4 2 0.00000 0.00000 0.00000 1.00000 150.00000 45.00000 
+%SSiJobTemplate: '4ea53bb4a6c00f3fe233a20e22fdc354.tpl'
+%SSiLayout: |4ea53bb4a6c00f3fe233a20e22fdc354.tpl| |4ea53bb4a6c00f3fe233a20e22fdc354.tpl| 1 1 792.00000 612.00000 0 ||
+%SSiPressSheet: 2736.00000 1800.00000 0.00000 108.00000 0 288.00000 1 36.00000 0 '' 1 1 0 0 '' 1.40000 2.00000 'LongEdge' -1 0 1 0 0 0 1 1 0 0 0 2 1 0 0 0 3 1 0 0 0 -1 0 1 0 0 0 0.00000 1 1 0 0 0 0.00000 2 1 0 0 0 0.00000 3 1 0 0 0 0.00000 
+%SSiPrshPage: 0.00000 0.00000 612.00000 792.00000 3 1 2 9.00000 9.00000 9.00000 9.00000 24580 0.00000 1.00000 0.00000 16385 0.00000 0.00000 1 9.00000 9.00000 9.00000 9.00000 0 24580 0.00000 
+%SSiSignature: |Sin título Pliego 1| 2 2 1 1 ||
+%SSiPressSheet: 1417.32288 992.12598 0.00000 141.73230 1 283.46460 1 17.00800 5 'cartel' 1 1 0 0 '' 1.00000 1.00000 'LongEdge' 0 0 1 0 0 0 1 1 0 0 0 2 1 0 0 0 3 1 0 0 0 0 0 1 0 0 0 0.00000 1 1 0 0 0 0.00000 2 1 0 0 0 0.00000 3 1 0 0 0 0.00000 
+%SSiSmartMarkStart: 3 10
+name: |Cropmarks|
+text: ||
+dupflags: 35
+sigstart: 1
+sigmod: 1
+colortype: 0
+color1: 100
+color2: 100
+color3: 100
+color4: 100
+rotation: 0
+smartoffsetx: 9.00000
+smartoffsety: 18.00000
+refentity: 2
+refanchor: 7
+markanchor: 0
+section: 0
+width: 0.00000
+height: 0.00000
+origingroup: |Sample Group|
+outsideonly: true
+linewidth: 0.25000
+%SSiSmartMarkEnd: 
+%SSiSmartMarkStart: 3 9
+name: |ColorBar|
+text: |colorbar.eps|
+dupflags: 35
+sigstart: 1
+sigmod: 1
+colortype: 0
+color1: 100
+color2: 100
+color3: 100
+color4: 100
+rotation: 0
+smartoffsetx: 731.33856
+smartoffsety: -57.11805
+refentity: 2
+refanchor: 1
+markanchor: 1
+section: 0
+width: 581.10236
+height: 18.00000
+origingroup: |Sample Group|
+calibratedupmark: true
+smartoffsetb: 1312.44092 -39.11805
+refentityb: 2
+refanchorb: 1
+%SSiSmartMarkEnd: 
+%SSiSmartMarkStart: 3 6
+name: |FoldMarks|
+text: ||
+dupflags: 35
+sigstart: 1
+sigmod: 1
+colortype: 0
+color1: 100
+color2: 100
+color3: 100
+color4: 100
+rotation: 0
+smartoffsetx: 0.00000
+smartoffsety: 36.00000
+refentity: 2
+refanchor: 7
+markanchor: 0
+section: 1
+width: 0.00000
+height: 0.00000
+origingroup: |Sample Group|
+%SSiSmartMarkEnd: 
+%SSiSmartMarkStart: 3 1
+name: |Slugline|
+text: |Sig$sig Side$side $color $date $time|
+dupflags: 547
+sigstart: 1
+sigmod: 1
+colortype: 0
+color1: 100
+color2: 100
+color3: 100
+color4: 100
+rotation: 0
+smartoffsetx: 36.00000
+smartoffsety: 18.00000
+refentity: 2
+refanchor: 7
+markanchor: 7
+section: 0
+width: 396.00000
+height: 16.00000
+origingroup: |Sample Group|
+flatid: true
+textscriptsystem: 0
+verticaltext: false
+%SSiSmartMarkEnd: 
+%SSiSmartMarkStart: 3 6
+name: |ImpositionFoldMark|
+text: ||
+dupflags: 3
+sigstart: 1
+sigmod: 1
+colortype: 0
+color1: 100
+color2: 100
+color3: 100
+color4: 100
+rotation: 0
+smartoffsetx: 0.00000
+smartoffsety: 17.00800
+refentity: 2
+refanchor: 7
+markanchor: 0
+section: 1
+width: 0.00000
+height: 0.00000
+origingroup: ||
+%SSiSmartMarkEnd: 
+%SSiPrshMatrix: 1 6.00000 0.00000 0
+%SSiPrshMatrix: 8 274.96063 0.00000 0
+%SSiPrshMatrix: 9 595.27557 0.00000 0
+%SSiPrshMatrix: 11 0.00000 0.00000 0
+%SSiPrshMatrix: 10 0.25000 0.00000 0
+%SSiPrshMatrix: 12 6.00000 0.00000 0
+%SSiPrshMatrix: 14 0.00000 0.00000 1
+%SSiPrshMatrix: 4 104.88189 0.00000 1
+%SSiPrshMatrix: 5 595.27557 0.00000 0
+%SSiPrshMatrix: 4 8.50394 8.50394 1
+%SSiPrshMatrix: 5 595.27557 0.00000 0
+%SSiPrshMatrix: 4 0.00000 104.88189 1
+%SSiPrshMatrix: 13 0.00000 0.00000 0
+%SSiPrshMatrix: 4 83.62205 0.00000 0
+%SSiPrshMatrix: 5 595.27557 0.00000 0
+%SSiPrshMatrix: 4 0.00000 0.00000 0
+%SSiPrshMatrix: 5 595.27557 0.00000 0
+%SSiPrshMatrix: 4 0.00000 0.00000 0
+%SSiPrshMatrix: 5 595.27557 0.00000 0
+%SSiPrshMatrix: 4 0.00000 83.62205 0
+%SSiPrshPage: 104.88189 83.62205 274.96063 595.27557 6 1 2 0.00000 8.50400 8.50400 8.50394 24580 0.00000 1.00000 0.00000 16385 0.00000 0.00000 1 8.50400 8.50400 8.50400 8.50400 0 24580 0.00000 
+%SSiPrshPage: 717.16534 83.62205 274.96063 595.27557 4 1 2 8.50400 8.50400 0.00000 8.50394 24580 0.00000 1.00000 0.00000 16385 0.00000 0.00000 1 8.50400 8.50400 8.50400 8.50400 0 24580 0.00000 
+%SSiPrshPage: 104.88189 358.58267 274.96063 595.27557 6 1 2 0.00000 8.50400 0.00000 8.50394 24580 0.00000 1.00000 0.00000 16385 0.00000 0.00000 1 8.50400 8.50400 8.50400 8.50400 0 24580 0.00000 
+%SSiPrshPage: 717.16534 358.58267 274.96063 595.27557 4 1 2 0.00000 8.50400 0.00000 8.50394 24580 0.00000 1.00000 0.00000 16385 0.00000 0.00000 1 8.50400 8.50400 8.50400 8.50400 0 24580 0.00000 
+%SSiPrshPage: 104.88189 633.54333 274.96063 595.27557 6 2 1 8.50400 8.50400 0.00000 8.50394 24580 0.00000 1.00000 0.00000 16385 0.00000 0.00000 1 8.50400 8.50400 8.50400 8.50400 0 24580 0.00000 
+%SSiPrshPage: 717.16534 633.54333 274.96063 595.27557 4 1 2 0.00000 8.50400 8.50400 8.50394 24580 0.00000 1.00000 0.00000 16385 0.00000 0.00000 1 8.50400 8.50400 8.50400 8.50400 0 24580 0.00000 
+%SSiPrshMatrix: 7 -1.00000 0.00000 0
+%SSiProduct: 9 'A' 2 'Nuevo producto' '' '' '' 0 0 '' '' 7 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0 -1 0.00000 0.00000 0 0 0 0.00000 0.00000 0 
+%SSiPart: 9 9 'Parte' 1 0 595.27557 841.88971 0 '' '25in x 38in' '' 0 '' -1 1 
+%SSiAssemblySection: 4 5 9 9 2 1 0 1 0 274.96063 595.27557 '' 8.50400 8.50400 8.50400 8.50400 0.00000 0.00000 2 0 'Sin título-1.tpl' '' '' 0 '' 0 0 0 0 

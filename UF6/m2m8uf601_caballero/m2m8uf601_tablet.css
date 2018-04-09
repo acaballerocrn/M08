@@ -1,0 +1,61 @@
+@media screen and (min-width:481px){
+  body{
+    background-color: green;
+    margin:0;
+    padding: 0;
+  }
+}
+#cap{
+  text-align: center;
+  color:white;
+  font-size: 15px;
+  height: auto;
+
+}
+.index{
+  height: 40px;
+  width: 17%;
+  background-color: white;
+  float: left;
+  margin-left: 7px;
+  margin-bottom: 7px;
+}
+#cos{
+background-color:#B8860B;
+text-align: center;
+width: 70%;
+float: left;
+}
+.cos{
+  height: 150px;
+  background-color: yellow;
+  margin-top: 10px;
+
+}
+#menu{
+background-color:#B8860B;
+margin:15px;
+  text-align: center;
+  float: left;
+  min-width: 20%;
+}
+
+.menu{
+  height: 100px;
+  background-color: pink;
+  margin-top: 10px;
+
+}
+#peu{
+  height: 150px;
+  background-color: black;
+  clear: left;
+}
+p{
+  color: black;
+}
+
+
+
+
+}

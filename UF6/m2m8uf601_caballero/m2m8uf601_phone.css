@@ -1,0 +1,59 @@
+@media screen and (max-width:480px){
+body{
+  background-color: red;
+  margin: 0;
+  padding: 0;
+}
+#cap{
+  text-align: center;
+  color:white;
+  font-size: 15px;
+  height: auto;
+
+}
+.index{
+  height: 40px;
+  width: 18%;
+  background-color: white;
+  float: left;
+  margin-left: 7px;
+  margin-bottom: 7px;
+}
+#cos{
+  clear: left;
+  background-color:#B8860B;
+  min-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.cos{
+  height: 150px;
+  background-color: yellow;
+  margin-top: 10px;
+
+
+}
+#menu{
+  clear: left;
+background-color:#B8860B;
+  padding: 15px;
+  text-align: center;
+  width: 100%;
+}
+
+.menu{
+  height: 100px;
+  background-color: pink;
+  margin-top: 10px;
+
+}
+
+#peu{
+  height: 150px;
+  background-color: black;
+  clear: left;
+}
+
+
+
+}
