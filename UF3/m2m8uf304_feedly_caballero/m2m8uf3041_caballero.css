@@ -1,0 +1,139 @@
+body{
+  margin:0;
+  padding:0;
+
+}
+div{
+  overflow:hidden;
+  padding-left: 20px;
+}
+#menu{
+  height: 80px;
+  background-color: #FFF;
+  overflow: visible;
+
+      }
+#menu ul{
+  float:40px;
+  background-color:;
+  float:right;
+  clear: right;
+
+}
+#menu li{
+  background-color: yellow;
+  display: inline;
+}
+p{
+  width: 400px;
+  margin-left: 10px;
+
+
+}
+#primer{
+  background-color: #333;
+  clear: right;
+      }
+      #primer h1{
+        float: left;
+        width: 30%;
+      }
+      #primer #contingut{
+        float: left;
+        width:30%;
+
+      }
+      #primer ul{
+
+        float: left;
+        width: 30%;
+      }
+      #primer ul li{
+        list-style-type: none;
+      }
+
+
+#segon{
+  height: 550px;
+  background-color: #6c3;
+  background-image: url(Img-hero-full-list.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+      }
+
+#tercer{
+  height: 641px;
+  background-color: #FFF;
+  background-image: url(allinone.jpg);
+  background-repeat: no-repeat;
+  background-position: 450px;
+      }
+
+#quart{
+  background-image: url(curator-short.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+  height: 500px;
+  background-color: #333;
+      }
+
+#cinque{
+  height: 550px;
+  background-color: #EEECEE;
+  background-image: url(img-hero-full-list.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+      }
+
+#sise{
+  height: 550px;
+  background-color: #6C3;
+  background-image: url(mobile-share.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+      }
+
+#sete{
+  height: 643px;
+  background-color: #EEECEE;
+  background-image: url(anywhere.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+      }
+  #vuite{
+        height: 200px;
+        background-color: #333;
+        text-align: center
+      }
+      #cuadrado1{
+        margin-top: -200px;
+        margin-left: 30px;
+        width: 300px;
+        background-color: grey;
+
+      }
+      #control{
+        margin-left:1500px;
+      }
+      #fondo{
+
+      margin: 0% 10%;
+      margin-top: 0;
+      width: 500px;
+      height: 500px;
+
+      }
+    img{
+       margin: 10px;
+     }
+     .blanc{
+       color:#FFF;
+     }
+    .negre{
+      color:#000;
+    }
+.fa{
+  color: cyan;
+  text-shadow: 2px 2px 3px blue;
+
+}
